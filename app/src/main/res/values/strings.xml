@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VaxiCode</string>
+    <string name="icone_statut_vaccinal">Icone du statut vaccinal</string>
+    <string name="texte_pas_vaccine">Pas vacciné</string>
+    <string name="texte_adequatement_vaccine">Adéquatement vacciné</string>
+    <string name="texte_partiellement_vaccine">Partiellement vacciné</string>
+    <string name="ajout_preuve_vaccinale">Ajouter une preuve vaccinale</string>
+    <string name="dose1">Dose 1</string>
+    <string name="dose2">Dose 2</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="code_qr_description">Code QR</string>
+</resources>
